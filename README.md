@@ -1,10 +1,8 @@
-https://github.com/MoritzLerch/moritzlerch/master/github_header.JPG
+![Header](https://github.com/MoritzLerch/moritzlerch/blob/main/github_header.JPG "Header")
 ### Hi, ich bin Moritz 👋
 
 ## 📊 GitHub Statistiken
-<div>
-  <img align="left" src="https://github-readme-stats.keyes.vercel.app/api?username=MoritzLerch&show_icons=true&count_private=true&hide=issues&include_all_commits=true&title_color=d46363&icon_color=d46363" />
-</div>
+[![MoritzLerch's github stats](https://github-readme-stats.vercel.app/api?username=MoritzLerch)](https://github.com/MoritzLerch)
 <br />
 <!--
 ## 🛠 Tech Stack & Tools
