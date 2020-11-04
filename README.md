@@ -1,4 +1,4 @@
-![Header](https://github.com/MoritzLerch/moritzlerch/blob/main/github_header.JPG "Header")
+<!--![Header](https://github.com/MoritzLerch/moritzlerch/blob/main/github_header.JPG "Header")-->
 ### Hi, ich bin Moritz 👋
 
 ## 📊 GitHub Statistiken
@@ -13,7 +13,7 @@
 
 ![Code: Python](https://img.shields.io/badge/Code-Python-d46363?style=for-the-badge&logo=python&logoColor=fff)
 ![Code: PHP](https://img.shields.io/badge/Code-PHP-d46363?style=for-the-badge&logo=php&logoColor=fff)
-![Code: C++](https://img.shields.io/badge/Code-C++-d46363?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Code: C++](https://img.shields.io/badge/Code-C++-d46363?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![Code: Go](https://img.shields.io/badge/Code-Go-d46363?style=for-the-badge&logo=go&logoColor=fff)
 ![Code: JS](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
 
@@ -25,7 +25,7 @@
 ![Tool: Inkscape](https://img.shields.io/badge/Tool-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=fff)
 ![Tool: Audacity](https://img.shields.io/badge/Tool-Audacity-f05454?style=for-the-badge&logo=audacity&logoColor=fff)
 ![Tool: OneNote](https://img.shields.io/badge/Tool-OneNote-6a097d?style=for-the-badge&logo=microsoft-onenote&logoColor=fff)
--->
+
 <!--
 **MoritzLerch/moritzlerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
