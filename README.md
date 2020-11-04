@@ -4,20 +4,24 @@
 ## 📊 GitHub Statistiken
 [![MoritzLerch's github stats](https://github-readme-stats.vercel.app/api?username=MoritzLerch)](https://github.com/MoritzLerch)
 <br />
-<!--
+
 ## 🛠 Tech Stack & Tools
 
-![OS: macOS](https://img.shields.io/badge/OS-macOS-d46363?style=for-the-badge&logo=apple&logoColor=fff)
-![IDE: VS Code](https://img.shields.io/badge/IDE-VS%20Code-d46363?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![OS: Windows](https://img.shields.io/badge/OS-Windows-0f3057?style=for-the-badge&logo=windows&logoColor=fff)
+![IDE: VS Code](https://img.shields.io/badge/IDE-VS%20Code-00587a?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![IDE: PyCharm](https://img.shields.io/badge/IDE-PyCharm-008891?style=for-the-badge&logo=pycharm&logoColor=fff)
 
-![Code: Vue.js](https://img.shields.io/badge/Code-Vue.js-d46363?style=for-the-badge&logo=vue.js&logoColor=fff)
 ![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
-![Code: SCSS](https://img.shields.io/badge/Code-SCSS-d46363?style=for-the-badge&logo=sass&logoColor=fff)
+![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
+![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
+![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
 
-![Tool: Node.js](https://img.shields.io/badge/Tool-Node.js-d46363?style=for-the-badge&logo=node.js&logoColor=fff)
-![Tool: Docker](https://img.shields.io/badge/Tool-Docker-d46363?style=for-the-badge&logo=docker&logoColor=fff)
-![Tool: Git](https://img.shields.io/badge/Tool-Git-d46363?style=for-the-badge&logo=git&logoColor=fff)
-![Tool: Slack](https://img.shields.io/badge/Tool-Slack-d46363?style=for-the-badge&logo=slack&logoColor=fff)
+![LIB: discord.py](https://img.shields.io/badge/lib-discord.py-008891?style=for-the-badge&logo=discord&logoColor=fff)
+
+![Tool: Gimp](https://img.shields.io/badge/Tool-Gimp-e74c3c?style=for-the-badge&logo=gimp&logoColor=fff)
+![Tool: Inkscape](https://img.shields.io/badge/Tool-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=fff)
+![Tool: Audacity](https://img.shields.io/badge/Tool-Audacity-f05454?style=for-the-badge&logo=audacity&logoColor=fff)
+![Tool: OneNote](https://img.shields.io/badge/Tool-OneNote-6a097d?style=for-the-badge&logo=microsoft-onenote&logoColor=fff)
 -->
 <!--
 **MoritzLerch/moritzlerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
