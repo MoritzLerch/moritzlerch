@@ -2,7 +2,7 @@
 ### Hi, ich bin Moritz 👋
 
 ## 📊 GitHub Statistiken
-[![MoritzLerch's github stats](https://github-readme-stats.vercel.app/api?username=MoritzLerch)](https://github.com/MoritzLerch)
+[![MoritzLerch's github stats](https://github-readme-stats.vercel.app/api?username=MoritzLerch&theme=merko)](https://github.com/MoritzLerch)
 <br />
 
 ## 🛠 Tech Stack & Tools
