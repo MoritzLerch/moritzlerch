@@ -11,12 +11,15 @@
 ![IDE: VS Code](https://img.shields.io/badge/IDE-VS%20Code-00587a?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![IDE: PyCharm](https://img.shields.io/badge/IDE-PyCharm-008891?style=for-the-badge&logo=pycharm&logoColor=fff)
 
-![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
-![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
-![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
-![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
+![Code: Python](https://img.shields.io/badge/Code-Python-d46363?style=for-the-badge&logo=python&logoColor=fff)
+![Code: PHP](https://img.shields.io/badge/Code-PHP-d46363?style=for-the-badge&logo=php&logoColor=fff)
+![Code: C++](https://img.shields.io/badge/Code-C++-d46363?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Code: Go](https://img.shields.io/badge/Code-Go-d46363?style=for-the-badge&logo=go&logoColor=fff)
+![Code: JS](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
 
 ![LIB: discord.py](https://img.shields.io/badge/lib-discord.py-008891?style=for-the-badge&logo=discord&logoColor=fff)
+![Framework: Bootstrap](https://img.shields.io/badge/framework-bootstrap-533b78?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![CMS: Wordpress](https://img.shields.io/badge/CMS-Wordpress-0073aa?style=for-the-badge&logo=wordpress&logoColor=fff)
 
 ![Tool: Gimp](https://img.shields.io/badge/Tool-Gimp-e74c3c?style=for-the-badge&logo=gimp&logoColor=fff)
 ![Tool: Inkscape](https://img.shields.io/badge/Tool-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=fff)
