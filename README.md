@@ -1,9 +1,8 @@
-![Header](https://github.com/MoritzLerch/moritzlerch/master/github_header.JPG "Header")
+https://github.com/MoritzLerch/moritzlerch/master/github_header.JPG
 ### Hi, ich bin Moritz 👋
 
 ## 📊 GitHub Statistiken
 <div>
-  <img src="https://github-readme-stats.keyes.vercel.app/api/top-langs/?username=MoritzLerch&card_width=280&hide=php&layout=compact&title_color=d46363&icon_color=d46363" />
   <img align="left" src="https://github-readme-stats.keyes.vercel.app/api?username=MoritzLerch&show_icons=true&count_private=true&hide=issues&include_all_commits=true&title_color=d46363&icon_color=d46363" />
 </div>
 <br />
