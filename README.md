@@ -13,9 +13,9 @@
 
 ![Code: Python](https://img.shields.io/badge/Code-Python-d46363?style=for-the-badge&logo=python&logoColor=fff)
 ![Code: PHP](https://img.shields.io/badge/Code-PHP-d46363?style=for-the-badge&logo=php&logoColor=fff)
+![Code: JS](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Code: C++](https://img.shields.io/badge/Code-C++-d46363?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![Code: Go](https://img.shields.io/badge/Code-Go-d46363?style=for-the-badge&logo=go&logoColor=fff)
-![Code: JS](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
 
 ![LIB: discord.py](https://img.shields.io/badge/lib-discord.py-008891?style=for-the-badge&logo=discord&logoColor=fff)
 ![Framework: Bootstrap](https://img.shields.io/badge/framework-bootstrap-533b78?style=for-the-badge&logo=bootstrap&logoColor=fff)
