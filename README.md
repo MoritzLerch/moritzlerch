@@ -2,7 +2,9 @@
 ### Hi, ich bin Moritz 👋
 
 ## 📊 GitHub Statistiken
-[![MoritzLerch's github stats](https://github-readme-stats.vercel.app/api?username=MoritzLerch&theme=dark)](https://github.com/MoritzLerch)
+<!-- [![MoritzLerch's github stats](https://github-readme-stats.vercel.app/api?username=MoritzLerch&theme=dark)](https://github.com/MoritzLerch) -->
+[MoritzLerch's github stats](https://github-readme-stats.vercel.app/api?username=MoritzLerch&theme=dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzLerch&theme=dark)
 <br />
 
 ## 🛠 Tech Stack & Tools
